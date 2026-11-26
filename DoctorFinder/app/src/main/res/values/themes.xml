@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.DoctorFinder" parent="Theme.Material3.Light.DarkActionBar" />
+</resources>
